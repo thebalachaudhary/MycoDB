@@ -1,7 +1,7 @@
 # MycoDB
 Database for meta-analyses on the ecological and evolutionary context of mycorrhizal fungi function
 Title: MycoDB, a global database of plant response to mycorrhizal fungi
-Contact: bala.chaudhary@depaul.edu
+Contact: bala.chaudhary@dartmouth.edu
 =====================================================================================
 MycoDB Version 1 – published April 22, 2016
 
